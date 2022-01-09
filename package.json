@@ -1,8 +1,8 @@
 {
-  "homepage": "http://AlexMir346.github.io/Pet-Project-Weather-App",
-  "name": "weather-app",
+  "name": "weather_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://AlexMir346.github.io/weather_react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
